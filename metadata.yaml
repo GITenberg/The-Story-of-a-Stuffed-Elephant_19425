@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/367
     wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19425#The-Story-of-a-Stuffed-Elephant
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2006-10-01'
 gutenberg_type: Text
